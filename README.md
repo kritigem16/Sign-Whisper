@@ -1,4 +1,4 @@
-#Sign Language detection using Tensorflow
+**#Sign Language detection using Tensorflow
 
 ![Alt Text](https://i.imgur.com/CbvRZIY.gif)
 
